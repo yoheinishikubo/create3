@@ -1,5 +1,5 @@
 {
-  "name": "@0xsequence/create3",
+  "name": "@yoheinishikubo/create3",
   "version": "3.0.0",
   "files": [
     "/contracts/**/*.sol",
